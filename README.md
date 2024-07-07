@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Zadislaw%20Maka&fontSize=90&animation=fadeIn&fontAlignY=38)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Wesley%20Sieiro%20Takatsu%20de%20Araujo&fontSize=90&animation=fadeIn&fontAlignY=38)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=2bf0d5&size=35&center=true&vCenter=true&width=1000&lines=Wesley+Sieiro+Takatsu+de+Araujo;Full+Stack;Seja+bem-vindo!+:%29)](https://git.io/typing-svg)
 # 💫 Sobre:
