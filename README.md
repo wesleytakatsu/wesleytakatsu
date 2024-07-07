@@ -76,7 +76,7 @@
 <!-- ![Vagrant](https://img.shields.io/badge/vagrant-%231563FF.svg?style=for-the-badge&logo=vagrant&logoColor=white)  -->
 <!-- ![Haskell](https://img.shields.io/badge/Haskell-5e5086?style=for-the-badge&logo=haskell&logoColor=white)  -->
 # 📊 GitHub Status:
-![](https://github-readme-stats.vercel.app/api?username=wesleytakatsu&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+<!-- ![](https://github-readme-stats.vercel.app/api?username=wesleytakatsu&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/> -->
 ![](https://github-readme-streak-stats.herokuapp.com/?user=wesleytakatsu&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=wesleytakatsu&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
